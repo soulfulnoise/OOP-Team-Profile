@@ -1,0 +1,22 @@
+{
+  "name": "oop-team-profile",
+  "version": "1.0.0",
+  "description": "an oop the sshows deveoper teams profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulfulnoise/OOP-Team-Profile.git"
+  },
+  "author": "Lee Spaulding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulfulnoise/OOP-Team-Profile/issues"
+  },
+  "homepage": "https://github.com/soulfulnoise/OOP-Team-Profile#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
